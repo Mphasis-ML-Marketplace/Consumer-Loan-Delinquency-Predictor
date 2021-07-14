@@ -1,4 +1,4 @@
-# HyperGraf-Home-Loan-Lead-Identifier
+# Consumer-Loan-Delinquency-Predictor
 
 ## Product Overview
 Sanctioning loans to consumers without credit history is a challenge for consumer finance companies. This solution predicts the probability of loan delinquency for such consumers. This solution can assist consumer finance companies in their decision-making process while assessing the risk to sanction loans. Companies can use the likelihood of loan delinquency to make targeted interventions to identify and mitigate potential loan defaults.
